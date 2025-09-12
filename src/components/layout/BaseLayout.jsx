@@ -33,7 +33,7 @@ const BaseLayout = (props) => {
               <div className="flex flex-col">
                 <a
                   className="btn mb-3 btn-outline"
-                  href="https://chrome.google.com/webstore/detail/oneclick/laonciagkijmeofonnbjlifmjingahok"
+                  href="chrome-extension://cngahkfpdombeeaeekmiikeafnbgbknn/index.html"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -44,7 +44,7 @@ const BaseLayout = (props) => {
                 </a>
                 <a
                   className="btn btn-outline"
-                  href="https://addons.mozilla.org/en-US/firefox/addon/oneclick"
+                  href=""
                   target="_blank"
                   rel="noreferrer"
                 >
